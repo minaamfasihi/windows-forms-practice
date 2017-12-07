@@ -1,0 +1,7 @@
+c:\users\minaam.fasihi\documents\visual studio 2017\Projects\WindowsFormsTutorial\WindowsFormsTutorial\bin\Debug\WindowsFormsTutorial.exe.config
+c:\users\minaam.fasihi\documents\visual studio 2017\Projects\WindowsFormsTutorial\WindowsFormsTutorial\bin\Debug\WindowsFormsTutorial.exe
+c:\users\minaam.fasihi\documents\visual studio 2017\Projects\WindowsFormsTutorial\WindowsFormsTutorial\bin\Debug\WindowsFormsTutorial.pdb
+c:\users\minaam.fasihi\documents\visual studio 2017\Projects\WindowsFormsTutorial\WindowsFormsTutorial\obj\Debug\WindowsFormsTutorial.csprojResolveAssemblyReference.cache
+c:\users\minaam.fasihi\documents\visual studio 2017\Projects\WindowsFormsTutorial\WindowsFormsTutorial\obj\Debug\WindowsFormsTutorial.csproj.CoreCompileInputs.cache
+c:\users\minaam.fasihi\documents\visual studio 2017\Projects\WindowsFormsTutorial\WindowsFormsTutorial\obj\Debug\WindowsFormsTutorial.exe
+c:\users\minaam.fasihi\documents\visual studio 2017\Projects\WindowsFormsTutorial\WindowsFormsTutorial\obj\Debug\WindowsFormsTutorial.pdb
